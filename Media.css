@@ -105,6 +105,10 @@
     width: 100%;
   }
 
+  .blog-top .top-img {
+    display: none;
+  }
+
   .image-container {
     height: auto;
     justify-content: space-between;
@@ -184,7 +188,23 @@
     font-size: 1rem;
   }
 
-   .footer h5 {
+  .footer h5 {
     font-size: 5px;
+  }
+
+  .main-container
+  .story-text-container h1 {
+    font-size: 30px;
+  }
+
+  .main-container
+  .story-text-container p {
+    font-size: 20px;
+  }
+
+  .image-container img {
+    height: auto;
+    width: 100%;
+    max-width: 100%;
   }
 }
