@@ -10,7 +10,7 @@
 
 .contact-title {
   text-align: center;
-  color: #fff;
+  color: #ffffff;
   font-size: 2rem;
   margin: 0 auto 30px auto;
   width: 100%;
@@ -46,7 +46,7 @@
   margin: 30px;
   font-size: 1.2rem;
   box-sizing: border-box;
-  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 4px 4px 10px #0000004d;
   border-radius: 15px;
   display: flex;
   flex-direction: column;
@@ -69,7 +69,7 @@
   font-size: 1.2rem;
   text-align: left;
   box-sizing: border-box;
-  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 4px 4px 10px #0000004d;
   border-radius: 15px;
   display: flex;
   flex-direction: column;
@@ -93,7 +93,7 @@
 .Message input,
 .Message textarea {
   background: linear-gradient(135deg, #0f0f0f, #1a1a2e, #2e003e, #3b0a4d);
-  color: #fff;
+  color: #ffffff;
   width: 100%;
   font-size: 1.1rem;
   padding: 14px;
@@ -119,13 +119,13 @@
   border-radius: 50%;
   object-fit: cover;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px #00000033;
   pointer-events: auto;
 }
 
 .logo-item img:hover {
   transform: scale(1.1);
-  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.9);
+  box-shadow: 0 6px 22px #000000e6;
   background-color: #ecebec;
 }
 
@@ -137,7 +137,7 @@
 
 button {
   background-color: #4c51bf;
-  color: white;
+  color: #ffffff;
   padding: 12px 28px;
   font-size: 1.1rem;
   border: none;

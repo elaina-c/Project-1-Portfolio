@@ -10,7 +10,7 @@
 
 .project-title {
   text-align: center;
-  color: #fff;
+  color: #ffffff;
   font-size: 1.8rem;
   margin: 0 auto 20px auto;
   width: 100%;
@@ -51,7 +51,7 @@
   text-align: center;
   transition: transform 0.3s ease;
   box-sizing: border-box;
-  box-shadow: 4px 4px 10px #0000004d; /* rgba(0, 0, 0, 0.3) */
+  box-shadow: 4px 4px 10px #0000004d;
   border-radius: 15px;
   overflow: hidden;
 }
@@ -66,7 +66,7 @@
   left: 0;
   height: 0;
   width: 100%;
-  background: linear-gradient(135deg, #000000d9, #1c2956d9, #470864d9); /* converted to 8-digit hex with alpha */
+  background: linear-gradient(135deg, #000000d9, #1c2956d9, #470864d9);
   display: flex;
   justify-content: center;
   align-items: center;

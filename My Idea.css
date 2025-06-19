@@ -16,7 +16,7 @@
   content: "";
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-  background-color: rgba(0, 0, 0, 0.699);
+  background-color: #000000b2;
   z-index: 0;
 }
 
@@ -37,7 +37,7 @@
   border-radius: 50%;
   border: 5px solid #674c8b;
   margin: 40px;
-  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 4px 4px 10px #0000004d;
 }
 
 .image-container h2,
